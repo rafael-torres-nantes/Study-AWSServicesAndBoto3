@@ -7,7 +7,6 @@ Bem-vindo ao repositório **Masterização de Habilidades com Boto3 e Serviços 
 - [📝 Visão Geral](#visão-geral)
 - [🔧 Configuração e Testes](#configuração-e-testes)
 
----
 
 ## 📝 Visão Geral
 
