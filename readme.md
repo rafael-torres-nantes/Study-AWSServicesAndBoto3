@@ -146,3 +146,5 @@ provider:
             - logs:CreateLogGroup
           Resource: arn:aws:logs:us-east-1:767398055833:log-group:rekognition-logs:log-stream:*
 ```
+
+[Master AWS with Python and Boto3](https://udemy.com/course/master-aws-with-python-and-boto3/)
